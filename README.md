@@ -13,27 +13,27 @@ I'm a final-year Software Engineering student at ESPRIT in Tunis, seeking a **6-
 
 ### EverCare — Microservices Healthcare Platform
 
-A multi-service healthcare platform covering appointments, medical records, daily logs, and monitoring, with broader team components that include ML and computer-vision integrations and CI/CD workflows. Eya contributed within the project scope; these broader system components are team efforts and are not presented as her individual ownership.
+A multi-service healthcare platform covering appointments, medical records, daily logs, and monitoring, with broader team components that include ML and computer-vision integrations and CI/CD workflows. I contributed within the project scope; these broader system components are team efforts and are not presented as my individual ownership.
 
-**Repositories:** [Esprit-PI-4SAE2-2025-EverCare](https://github.com/eyadabbaghi/Esprit-PI-4SAE2-2025-EverCare) · [EverCare-microservice](https://github.com/eyadabbaghi/EverCare-microservice)
+**Repositories under my GitHub account:** [Esprit-PI-4SAE2-2025-EverCare](https://github.com/eyadabbaghi/Esprit-PI-4SAE2-2025-EverCare) · [EverCare-microservice](https://github.com/eyadabbaghi/EverCare-microservice)
 
 ### EduGenius AI — Collaborative RAG & LLM Work
 
-Collaborative work on retrieval-augmented generation and LLM workflows, using Python and FastAPI.
+I contributed collaboratively to retrieval-augmented generation and LLM workflows using Python and FastAPI. This is a team repository, not a repository under my account.
 
 **Collaborative repository:** [BadrFTW/edugenius-ai](https://github.com/BadrFTW/edugenius-ai)
 
 ### DevOps & CI/CD
 
-Projects involving containerization, automated CI/CD pipelines, and Kubernetes deployment workflows.
+I work with containerization, automated CI/CD pipelines, and Kubernetes deployment workflows.
 
-**Repositories:** [devops-capstone-project](https://github.com/eyadabbaghi/devops-capstone-project) · [ci-cd-final-project](https://github.com/eyadabbaghi/ci-cd-final-project) · [Devops](https://github.com/eyadabbaghi/Devops)
+**Repositories under my GitHub account:** [devops-capstone-project](https://github.com/eyadabbaghi/devops-capstone-project) · [ci-cd-final-project](https://github.com/eyadabbaghi/ci-cd-final-project) · [Devops](https://github.com/eyadabbaghi/Devops)
 
 ### FitTrack AI — Mobile Development
 
-A Dart and Flutter mobile health and nutrition app with a food catalog, barcode scanning, nutrition summaries, and meal recommendations.
+I build FitTrack AI, a Dart and Flutter mobile health and nutrition app with a food catalog, barcode scanning, nutrition summaries, and meal recommendations.
 
-**Repository:** [dev-mobile-project-2026](https://github.com/eyadabbaghi/dev-mobile-project-2026)
+**Repository under my GitHub account:** [dev-mobile-project-2026](https://github.com/eyadabbaghi/dev-mobile-project-2026)
 
 ## Tech Stack
 
