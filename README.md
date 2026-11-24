@@ -9,27 +9,25 @@ I'm a final-year Software Engineering student at ESPRIT in Tunis, seeking a **6-
 
 ## Featured Projects
 
-<p align="center"><img src="./assets/projects-grid.svg" alt="Selected projects: EverCare, EduGenius AI, DevOps and CI/CD, and FitTrack AI" width="100%" /></p>
+<p align="center"><img src="./assets/projects-grid.svg" alt="Selected projects: EverCare, collaborative EduGenius AI, DevOps and CI/CD, and FitTrack AI" width="100%" /></p>
 
 ### EverCare — Microservices Healthcare Platform
 
-A healthcare platform for appointments, medical records, daily logs, and monitoring, built as part of a broader multi-service system that also includes ML and computer-vision integrations and CI/CD workflows.
+A multi-service healthcare platform covering appointments, medical records, daily logs, and monitoring, with broader team components that include ML and computer-vision integrations and CI/CD workflows. Eya contributed within the project scope; these broader system components are team efforts and are not presented as her individual ownership.
 
-**Eya's contribution:** [Add verified responsibilities or components here.] The broader system capabilities above are not an attribution of those components to Eya.
+**Repositories:** [Esprit-PI-4SAE2-2025-EverCare](https://github.com/eyadabbaghi/Esprit-PI-4SAE2-2025-EverCare) · [EverCare-microservice](https://github.com/eyadabbaghi/EverCare-microservice)
 
-**Repositories:** [Esprit-PI-4SAE2-2025-EverCare](REPLACE_WITH_REPOSITORY_URL) · [EverCare-microservice](REPLACE_WITH_REPOSITORY_URL)
+### EduGenius AI — Collaborative RAG & LLM Work
 
-### EduGenius AI — RAG & LLM Workflows
+Collaborative work on retrieval-augmented generation and LLM workflows, using Python and FastAPI.
 
-An AI project focused on retrieval-augmented generation (RAG) and LLM workflows, using Python and FastAPI.
-
-**Repository:** [EduGenius AI](REPLACE_WITH_REPOSITORY_URL)
+**Collaborative repository:** [BadrFTW/edugenius-ai](https://github.com/BadrFTW/edugenius-ai)
 
 ### DevOps & CI/CD
 
-Work involving containerization, automated CI/CD pipelines, and Kubernetes deployment workflows.
+Projects involving containerization, automated CI/CD pipelines, and Kubernetes deployment workflows.
 
-**Repositories:** [devops-capstone-project](REPLACE_WITH_REPOSITORY_URL) · [ci-cd-final-project](REPLACE_WITH_REPOSITORY_URL)
+**Repositories:** [devops-capstone-project](https://github.com/eyadabbaghi/devops-capstone-project) · [ci-cd-final-project](https://github.com/eyadabbaghi/ci-cd-final-project) · [Devops](https://github.com/eyadabbaghi/Devops)
 
 ### FitTrack AI — Mobile Development
 
